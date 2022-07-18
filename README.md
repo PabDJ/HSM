@@ -11,4 +11,5 @@ The code of the project can be found at [ETH 2.0 Hardware Remote Signer](https:/
 
 ## Technical report
 The technical report is written in Spanish. The document attached is my Bachelor's thesis, which was graded with 9.5/10 and a distinction.
+
 [*Hardware Security Module by Pablo de Juan Fidalgo*](https://github.com/PabDJ/HSM/blob/main/BachelorThesis.pdf)
